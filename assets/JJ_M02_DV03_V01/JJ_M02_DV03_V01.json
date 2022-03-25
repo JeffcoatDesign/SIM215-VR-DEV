@@ -1,0 +1,16 @@
+{
+	"sceneList" : [
+		[
+			"gallery1",
+			"Scene_1"
+		],
+		[
+			"gallery2",
+			"Scene_2"
+		],
+		[
+			"gallery3",
+			"Scene_3"
+		]
+	]
+}
